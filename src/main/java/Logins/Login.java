@@ -160,6 +160,7 @@ public class Login extends javax.swing.JFrame {
             JOptionPane.showMessageDialog(null, "Invalid User Credentials", "Login Error", JOptionPane.ERROR_MESSAGE);
             passwordField.setText(null);
             userNameField.setText(null);
+            
         }
     }//GEN-LAST:event_loginButtonActionPerformed
 
